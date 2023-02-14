@@ -22,7 +22,7 @@ header{
     align-content: center;
     font-weight: bolder;
     font-family: PT Serif;
-    margin-top: 22em;
+    margin-top: 30%;
 }
 
 .col{
@@ -31,6 +31,8 @@ header{
     text-align: left;
     margin-bottom: 2em;
 }
+
+
 .card-header{
 background-color: white;
 border-bottom: none;
@@ -39,6 +41,82 @@ border-bottom: none;
     margin-bottom: 1em;
 }
 
+.bodytext{
+    font-family: PT Serif;
+   text-align: center;
+   margin-top: 3em;
+   margin-bottom: 6em;
+}
+.middle-column1{
+    flex-direction: row;
+    margin:10em;
+}
 
+.midimg {
+    margin: auto;
+    width: 100%;
+    margin-bottom: 5em;
+}
 
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Jargonhead{
+    background-color:rgb(247, 243, 240);
+    font-family: PT Serif;
+     margin-bottom: 0;
+     padding: 2em;
+    font-weight: bolder;
+    font-size: 45px;
+}
+.jargon {
+    background-color:rgb(247, 243, 240);
+   
+}
+.text1{
+    padding: 1rem;
+    font-weight: bold;
+}
+.container{
+    padding: 184.8;
+    background-color:rgb(247, 243, 240);
+    font-family: PT Serif;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.abovefooterform{
+    font-family: PT Serif;
+    display: flex;
+
+    justify-content: center;
+    align-items: center
+}
+
+.bottomforefooter{
+  margin-top: 5em;
+    justify-content: center;
+    align-items: center
+}
+
+.footerBG{
+    background-color: rgb(37, 36, 36);
+    color: rgb(254, 251, 246);
+
+}
+.footnotes{
+    margin: 6em;
+    margin-right: 12em;
+    margin-left: 12em;
+}
+
+.row1 {
+    text-align: right;
+    background-color: black;
+    color: white;
+}
 
